@@ -33,18 +33,7 @@ multialignment              [``'left'`` | ``'right'`` | ``'center'`` ]
 name or fontname            string e.g., [``'Sans'`` | ``'Courier'`` | ``'Helvetica'`` ...]
 picker                      [None|float|bool|callable]
 position                    (x, y)
-rotation                    [ angle in degrees | ``'vertical'`` | ``'horizontal'`` ]
-        size or fontsize            [ size in points | relative size, e.g., ``'small'``, ``'x-large'`` ]
-style or fontstyle          [ ``'normal'`` | ``'italic'`` | ``'oblique'`` ]
-text                        string or anything printable with '%s' conversion
-transform                   `~matplotlib.transforms.Transform` subclass
-variant                     [ ``'normal'`` | ``'small-caps'`` ]
-verticalalignment or va     [ ``'center'`` | ``'top'`` | ``'bottom'`` | ``'baseline'`` ]
-visible                     bool
-weight or fontweight        [ ``'normal'`` | ``'bold'`` | ``'heavy'`` | ``'light'`` | ``'ultrabold'`` | ``'ultralight'``]
-x                           `float`
-y                           `float`
-zorder                      any number
+
 ==========================  ======================================================================================================================
 
 
